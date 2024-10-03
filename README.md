@@ -631,3 +631,7 @@ Traceback (most recent call last):
   File "/home/student/Загрузки/test-coding-main/poker/poker_math.py", line 139, in calc_equity
     return (wins + tie) / count
 ZeroDivisionError: division by zero
+
+
+
+I am fucking idiot, so i need to do it like that
